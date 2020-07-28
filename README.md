@@ -1,4 +1,4 @@
-##This is Simple Laravel Project using CRUD Operations to give simple demonstration of laravel Business Listing.
+This is Simple Laravel Project using CRUD Operations to give simple demonstration of laravel Business Listing.
 
 *Server Requirements:*
 
@@ -16,9 +16,22 @@ XML PHP Extension
 
 Laravel utilizes Composer to manage its dependencies. So, before using Laravel, make sure you have Composer installed on your machine.
 
-**Via Laravel Installer
-First, download the Laravel installer using Composer:**
+ **Intsall composer on your machine**
+ > sudo apt-get update
+ > sudo apt-get install composer
 
-> composer global require laravel/installer
+**Use migration command on sqlite database**
+> php artisan migrate
+
+
+**Run on local server** Apache2
+*open the project directory and open terminal
+> php artisan serve
+
+**click on th Url**
+
+http://127.0.0.1:8000
+[Tue Jul 28 16:07:17 2020] PHP 7.4.8 Development Server (http://127.0.0.1:8000) started
+
 
 
