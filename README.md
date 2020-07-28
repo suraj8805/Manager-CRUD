@@ -1,4 +1,4 @@
-This is Simple Laravel Project using CRUD Operations to give simple demonstration of laravel Business Listing.
+This is Simple Laravel Project using CRUD Operations to give demonstration of laravel Business Listing.
 
 *Server Requirements:*
 
