@@ -25,7 +25,7 @@ Laravel utilizes Composer to manage its dependencies. So, before using Laravel, 
 
 
 **Run on local server** Apache2
-*open the project directory and open terminal
+*Goto the project directory and open terminal*
 > php artisan serve
 
 **click on th Url**
