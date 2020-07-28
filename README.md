@@ -29,7 +29,7 @@ Laravel utilizes Composer to manage its dependencies. So, before using Laravel, 
 *Goto the project directory and open terminal*
 > php artisan serve
 
-**click on th Url**
+**click on the below Url**
 
 http://127.0.0.1:8000
 [Tue Jul 28 16:07:17 2020] PHP 7.4.8 Development Server (http://127.0.0.1:8000) started
