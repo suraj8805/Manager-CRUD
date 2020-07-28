@@ -18,6 +18,7 @@ Laravel utilizes Composer to manage its dependencies. So, before using Laravel, 
 
  **Intsall composer on your machine**
  > sudo apt-get update
+ 
  > sudo apt-get install composer
 
 **Use migration command on sqlite database**
